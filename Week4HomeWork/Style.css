@@ -1,0 +1,40 @@
+html{
+  background-color: lightgray;
+}
+ul {
+  padding: 100px, 10px;
+  background-color: lightgreen;
+}
+
+ol {
+  padding: 10px, 10px;
+  background-color: lightcoral;
+}
+
+h1 {
+  background-color: lightskyblue;
+}
+
+.Important{
+  text-decoration: underline;
+
+}
+
+#LessEssentials > li{
+  text-decoration: underline;
+}
+
+p{
+  text-align: center;
+  padding: 50px,50px;
+}
+
+h1,h2,h3{
+  text-align: center;
+}
+
+img{
+padding-top: 25px;
+padding-left: 440px;
+padding-bottom: 25px;
+}
